@@ -1,5 +1,10 @@
 # This repo contains script for deleting stale branches from github
 
+# CAUTION
+
+Double check branches before deleting it. Verify that all the branches which are there in `stale-branches.txt` is not active branch.
+Check if you are ignoring all the important branches like `develop`, `master`, `main` etc.
+
 ## prerequisites
 
 1. Python3
