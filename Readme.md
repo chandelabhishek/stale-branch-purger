@@ -12,7 +12,8 @@ Check if you are ignoring all the important branches like `develop`, `master`, `
 
 ## Installing Dependencies
 
-`npm i`
+1. `npm i`
+2. `export github_token=<YOUR_GITHUB_TOKEN>`
 
 ## Steps
 
